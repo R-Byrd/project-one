@@ -11,3 +11,9 @@ The objective of this project is to analyze a comprehensive dataset of Netflix T
 II. Problem Statement
 
 Netflix releases hundreds of titles each year, but not all succeed. While some become cultural phenomena, others are quietly canceled after a few seasons or even a single season. By examining historical data, this project aims to uncover patterns in popularity and cancellations, providing insights that could help optimize content offerings and marketing strategies.
+
+#We decided on the data set and api we wanted to use
+https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows
+https://www.omdbapi.com/
+
+Next class we will pull the data and begin to manipulate it.
