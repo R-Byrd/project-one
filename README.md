@@ -17,3 +17,8 @@ https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows
 https://www.omdbapi.com/
 
 Next class we will pull the data and begin to manipulate it.
+
+
+
+
+This class period we reviewed our data and came up with a plan for visualizations as well as who is presenting what and when. We plan to put the final touches on our visualizations and slides throughout the day tomorrow and gather as early as possible to finalize. Only 2 crying breaks were taken during this session
