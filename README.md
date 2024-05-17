@@ -22,3 +22,30 @@ Next class we will pull the data and begin to manipulate it.
 
 
 This class period we reviewed our data and came up with a plan for visualizations as well as who is presenting what and when. We plan to put the final touches on our visualizations and slides throughout the day tomorrow and gather as early as possible to finalize. Only 2 crying breaks were taken during this session
+
+
+Analysis of Top 5 TV Show Genres (2019-2021)
+
+The focus was to analyze the top 5 TV show genres within a 3 year period of pre and post-covid years, specifically from 2019 to 2021, based on the number of seasons each produced. Here are the key findings. 
+
+Crime TV and Kids TV 
+Both genres tied for the highest number of seasons, each producing 268 seasons in total within the three year span
+Crime TV had a significantly higher number of shows with only one season (159) compared to Kids TV (35). 
+Netflix Production 
+ Netflix produced an average of 240 seasons annually between 2019 and 2021. 
+Out of these, approximately 101 shows did not produce more than one season
+Season Analysis 
+53% of the shows in 2019 and 202 produced only one season
+In 2021, this percentage spiked to 82%. 
+Yearly Breakdown:
+2019: 53% of shows had only one season.
+2020: 53% of shows had only one season.
+2021: 82% of shows had only one season.
+
+
+Observations & Insights
+
+Production Strategy: Despite high cancellation rates, Netflix should continue producing a high number of shows, as more than half of the shows end after one season. 
+Impact of External Factors: The drastic drop in the number of shows produced from 2022 to 2023 can be attributed to reasons like writers' strikes, layoffs, and production budget cuts.
+
+These findings suggest that the number of seasons produced does not directly correlate with the continuation or cancellation of shows. Netflix appears to benefit from producing a high number of shows, despite over 50% of them ending after 1 season. 
